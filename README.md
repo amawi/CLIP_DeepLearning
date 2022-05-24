@@ -1,4 +1,4 @@
-# CLIP_DeepLearning
+# Learning visual features from large-scale datasets
 Repo for a report for Learning visual features from large-scale datasets and a presentation focusing on OpenAI CLIP, you can find more in the authors link:
 https://openai.com/blog/clip/
 

@@ -1,4 +1,5 @@
 # CLIP_DeepLearning
-Repo for CLIP paper report and presentation
+Repo for a report for Learning visual features from large-scale datasets and a presentation focusing on OpenAI CLIP, you can find more in the authors link:
+https://openai.com/blog/clip/
 
-You will find a report that I made about CLIP; In addition to a presentation also based on the same paper.
+You will find a report that I made about Learning visual features from large-scale datasets; In addition to a presentation based on CLIP and contrastive learning.
